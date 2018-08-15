@@ -19,3 +19,7 @@
     - sshd
     - pip_install
     - bootstrap-host
+  vars:
+    pip_packages:
+      - pip==9.0.1
+
